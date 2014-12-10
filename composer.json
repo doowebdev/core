@@ -20,6 +20,8 @@
     "symfony/validator": "~2.3",
     "symfony/locale": "~2.3",
     "symfony/twig-bridge": "~2.3",
+    "symfony/form": "~2.3",
+    "symfony/security-csrf": "~2.4",
     "silex/silex": "~1.2.2",
     "twig/twig": "~1.16.2",
     "bitolaco/silex-eloquent": "~0.1.1",
@@ -28,7 +30,6 @@
     "ircmaxell/password-compat": "~1.0.4",
     "swiftmailer/swiftmailer": "5.2.1",
     "doowebdev/doo-pagination": "1.*",
-    "doowebdev/doo-csrf": "1.*",
     "fuelphp/upload": "2.*"
   },
 
