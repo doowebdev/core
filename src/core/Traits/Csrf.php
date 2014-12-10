@@ -14,11 +14,11 @@ trait Csrf {
     }
 
 
-    public function checkCsrf( $token )
+    public function checkCsrf( $tokenv )
     {
         print_r($token);
      //   return $token;
-        return Token::check( $token );
+        return Token::check( $tokenv );
     }
 
 }
